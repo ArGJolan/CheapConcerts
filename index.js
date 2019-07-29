@@ -1,1 +1,1 @@
-console.log('J\'entends pas les rageux')
+console.log('J\'entends pas les rageux');
